@@ -1,0 +1,7 @@
+Flask
+diffusers
+transformers
+scipy
+ftfy
+accelerate
+xformers
