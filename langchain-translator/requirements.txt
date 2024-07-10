@@ -1,0 +1,7 @@
+langchain
+langchain-openai
+langchain_core
+python-dotenv
+ipykernel
+langserve[all]
+fastapi
