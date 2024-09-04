@@ -1,0 +1,8 @@
+langchain
+openai
+requests
+streamlit
+SpeechRecognition
+python-dotenv
+pygame
+pyaudio
